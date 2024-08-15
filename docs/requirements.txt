@@ -3,7 +3,7 @@
 # modules with pip.
 
 # Workaround to fix the bug: https://github.com/readthedocs/readthedocs.org/issues/9038
-Jinja2<3.1 
+Jinja2<3.2 
 
 # Support Markdown
 #recommonmark
